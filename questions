@@ -1,40 +1,40 @@
 {
-  "text": "В каких регионах чаще всего встречаются сейсмоопасные районы?",
+  "text": "In which regions are seismic hazard areas most often found?",
   "resource": "R.drawable.earthquakes",
-  "answer1": "Районы вазимодействия литосферных плит",
-  "answer2": "Общирные восточные морские побережья",
-  "answer3": "Степи, полупустыни, пустыни",
+  "answer1": "Areas of lithospheric plate interaction",
+  "answer2": "Extensive eastern sea coasts",
+  "answer3": "Steppes, semi-deserts, deserts",
   "rightAnswer": 0
 },
 {
-  "text": "Какой из перечисленных островов находится в экваториальном климатическом поясе?",
+  "text": "Which of the listed islands is located in the equatorial climatic zone?",
   "resource": "R.drawable.islands",
-  "answer1": "Мадагаскар",
-  "answer2": "Калимантан",
-  "answer3": "Куба",
+  "answer1": "Madagascar",
+  "answer2": "Kalimantan",
+  "answer3": "Cuba",
   "rightAnswer": 1
 },
 {
-  "text": "Какую карту открыть, чтобы увидеть центры машиностроения в России?",
+  "text": "Which map should be opened to see the centers of engineering in Russia?",
   "resource": "R.drawable.maps",
-  "answer1": "Политическую карту",
-  "answer2": "Карту Машиностроение в России",
-  "answer3": "Экономическую карту Росcии",
+  "answer1": "Political map",
+  "answer2": "Map of Engineering in Russia",
+  "answer3": "Economic map of Russia",
   "rightAnswer": 2
 },
 {
-  "text": "Какое из перечисленных озёр относится к числу глубочайших?",
+  "text": "Which of the listed lakes is among the deepest?",
   "resource": "R.drawable.lake",
-  "answer1": "Танганьика",
-  "answer2": "Чад",
-  "answer3": "Ладожское",
+  "answer1": "Tanganyika",
+  "answer2": "Chad",
+  "answer3": "Ladoga",
   "rightAnswer": 0
 },
 {
-  "text": "Самая глубокая впадина на суше находится на материке?",
+  "text": "The deepest depression on land is located on the continent?",
   "resource": "R.drawable.soil",
-  "answer1": "Австралия",
-  "answer2": "Евразия",
-  "answer3": "Северная Америка",
+  "answer1": "Australia",
+  "answer2": "Eurasia",
+  "answer3": "North America",
   "rightAnswer": 1
 }
